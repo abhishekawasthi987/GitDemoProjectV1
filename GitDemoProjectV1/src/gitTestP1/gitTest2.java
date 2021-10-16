@@ -6,7 +6,7 @@ public class gitTest2 {
 		
 int a = 10;
 		
-		if(a==10)
+		if(a==10 || a==1 ||a==0)
 			System.out.println("True");
 		else {
 		System.out.println("False");
